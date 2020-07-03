@@ -12,5 +12,5 @@ import (
 
 
 func Version()string{
-	return "mod1{ mod_version:1.0.0 go:"+runtime.Version()+" }"
+	return "mod1{ mod_version:1.0.1 go:"+runtime.Version()+" }"
 }
